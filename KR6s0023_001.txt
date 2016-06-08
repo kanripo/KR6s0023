@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:52.274737
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:35
 #+TITLE: 唐梵文字
 #+PROPERTY: CBETA_ID T54n2134
 #+PROPERTY: ID KR6s0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2134
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0023_T_000-1216b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0023_T_001-1216b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2134¶
+No. 2134¶
 
-唐梵文字一卷（序）
-:PROPERTIES:
-:head: 唐梵文字一卷¶
-
-:END:
+* 唐梵文字一卷¶
 ¶
 
 夫欲[辦-力+歹]識兩國言音者。須是師資相乘。或是¶
@@ -39,8 +35,7 @@ No.2134¶
 全真集
 <pb:KR6s0023_T_001-1216c>¶
 ¶
-
- 唐梵文字¶
+唐梵文字¶
 ¶
 
 唐　梵¶
